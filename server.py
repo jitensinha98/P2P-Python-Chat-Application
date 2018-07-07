@@ -1,3 +1,6 @@
+"""This is the Server portion GUI of the P2P Chat Application.
+   The server is capable of connecting,sending and receiving messages from the Client """
+
 import socket
 import threading
 import os
