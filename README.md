@@ -1,6 +1,8 @@
 # P2P-Python-Chat-Application
 P2P Chat application written in python with tkinter GUI framework.
 
+Modules used:Socket,tkinter
+
 Python socket programming is done to initialize and connect the server and the client portion of the application.
 Tkinter module is used to design the GUI and ease the usability of the users.
 
