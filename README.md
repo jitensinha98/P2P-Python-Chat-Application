@@ -6,6 +6,7 @@ P2P Chat application written in python with tkinter GUI framework.
 - Tkinter
 
 ## Module installation guidelines
+Execute the following bash commands on terminal.
 ```
 sudo apt-get install python3-tk
 sudo apt-get update
