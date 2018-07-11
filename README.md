@@ -1,6 +1,9 @@
 # P2P-Python-Chat-Application
 P2P Chat application written in python with tkinter GUI framework.
 
+### Programming Language used :
+- python 3
+
 ## Modules used
 - Socket
 - Tkinter
