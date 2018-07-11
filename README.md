@@ -6,11 +6,11 @@ P2P Chat application written in python with tkinter GUI framework.
 - Tkinter
 
 ## Module installation guidelines
-,,, 
+...
 sudo apt-get install python3-tk
 sudo apt-get update
 sudo apt-get upgrade
-,,,
+...
 ###### Socket is a default module present in python
 
 ## Description
