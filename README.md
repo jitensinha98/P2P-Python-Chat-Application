@@ -28,3 +28,9 @@ In order to support users outside the LAN network,the users are required to enab
 - Before using ,the users are adviced to change **HOST and PORT** variables in **server.py** program with their device HOST name and desirable port number.
 
 - In order to execute the application,run server.py script first and then execute client.py.The Server should automatically connect to the client and dislay **MESSAGE FACILITY ACTIVE** upon successfull connection.
+
+## Author
+-***Jiten Sinha***-initial work-[LinkedIn](https://www.linkedin.com/in/jiten-sinha-131043159/)
+
+## Licesnse
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/jitensinha98/P2P-Python-Chat-Application/blob/master/LICENSE) file for details.
